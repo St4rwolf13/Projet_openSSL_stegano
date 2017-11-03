@@ -1,0 +1,1 @@
+gcc Chiffre.c -lcrypto -lSDL -lSDL_image

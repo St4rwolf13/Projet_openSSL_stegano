@@ -1,0 +1,10 @@
+1) ecrire un progrm qui chiffre en AES-CBC en utilisant la librairie Open SSL tout fichier de n'importe quel format
+Emc (fichier pt, AES-CBC);
+
+2) ecrire un prgrm qui cache le chiffré dans une image de format PNG en utilisant la technique LSB
+et qui retrouve le fichier a partir d'une image
+
+RGB
+
+   R             V            B
+|-------LSB| |-------LSB| |-------LSB|
